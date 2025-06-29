@@ -1,0 +1,8 @@
+*
+!.gitignore
+!*.py
+!requirements.txt
+!README.md
+!data/
+!data/vec.json
+!data/vocab.txt
