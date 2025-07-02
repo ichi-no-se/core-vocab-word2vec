@@ -7,6 +7,8 @@ core-vocab-word2vec/
 ├── data/
 │ ├── vocab.txt # 抽出語彙リスト（1語1行）
 │ └── vec.json # 対応ベクトルを保存したJSON
+├── web/
+│ └── compress.py # Web 上に置くために json を圧縮するスクリプト
 ├── extract-vocab.py # Wiktionary などから語彙リストを生成するスクリプト
 ├── extract-vec.py # Word2Vec モデルからベクトルを抽出するスクリプト
 ├── requirements.txt # 依存パッケージ

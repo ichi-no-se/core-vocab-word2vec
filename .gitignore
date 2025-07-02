@@ -6,3 +6,5 @@
 !data/
 !data/vec.json
 !data/vocab.txt
+!web/
+!web/compress.py
